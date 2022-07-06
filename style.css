@@ -1,0 +1,14 @@
+.todolist {
+  text-align: center;
+  font-size: 50px;
+  color: blue;
+}
+
+.list {
+  text-align: center;
+  margin-top: 50px;
+}
+
+li {
+  list-style: none;
+}
